@@ -53,6 +53,13 @@ Traditional traffic light systems in Sri Lanka operate on rigid **Fixed-Time Con
 * **Brute-Force Optimal:** $O(n!)$ — Factorial growth. Requires ~3.6 million operations per decision at $n=10$, making it computationally infeasible.
 
 ---
+🚀 Getting Started
+Prerequisites
+Python 3.x
+
+Matplotlib / NumPy (if running data visualization scripts)
+
+---
 
 ## 📁 Repository Structure
 
