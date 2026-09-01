@@ -30,7 +30,7 @@ Traditional traffic light systems in Sri Lanka operate on rigid **Fixed-Time Con
    Arranges lane queue counts into a Max-Heap where the most congested lane rises to the top.
 
 3. **Extract-Max & Proportional Split (O(nlog n)):**
-   Distributes the remaining 50 seconds based on demand percentage[cite: 1, 2]. If the North lane holds 60% of all vehicles, it receives $60\% \times 50\text{s} = 30\text{s}$ extra green time (totaling 40s).
+   Distributes the remaining 50 seconds based on demand percentage. If the North lane holds 60% of all vehicles, it receives $60\% \times 50\text{s} = 30\text{s}$ extra green time (totaling 40s).
 
 ---
 
