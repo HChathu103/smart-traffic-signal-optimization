@@ -54,10 +54,10 @@ Traditional traffic light systems in Sri Lanka operate on rigid **Fixed-Time Con
 
 ---
 🚀 Getting Started
-Prerequisites
-Python 3.x
 
-Matplotlib / NumPy (if running data visualization scripts)
+Prerequisites
+* Python 3.x
+* Matplotlib / NumPy (if running data visualization scripts)
 
 ---
 
